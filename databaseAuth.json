@@ -1,0 +1,7 @@
+{
+    "databaseHost": "127.0.0.1",
+    "databaseUser": "root",
+    "databasePassword": "",
+    "databaseName": "test",
+    "replaceDatabaseNameInFile": true
+}
